@@ -1,0 +1,20 @@
+# Shared P1/P2 dependencies. Keep the runtime's installed Torch/CUDA.
+numpy>=2.2.6
+scipy>=1.15.3
+matplotlib
+seaborn
+PyYAML
+tqdm
+tokenizers>=0.21.0
+torchinfo==1.8.0
+wandb==0.23.1
+pandas
+pillow
+pytest
+nbformat
+sacrebleu==2.6.0
+rouge-score==0.1.2
+kaggle==1.8.0
+kagglehub==1.0.2
+certifi
+requests>=2.32.3

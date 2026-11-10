@@ -1,0 +1,5 @@
+-r requirements-colab.txt
+torch>=2.7.0
+ipython>=9.2.0
+notebook>=7.4.3
+ipykernel
